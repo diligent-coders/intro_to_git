@@ -1,21 +1,32 @@
-# Diligent Coders
-Welcome to the Diligence Media/Gaming community code learning repo! Diligence Media is a group of friends with a background in gaming, music production and performance, graphic design, and general multimedia. Please join us on [our Discord Channel](https://discord.gg/rRGukhvEYE) for direct communication regarding this course.
+# Intro to Git
 
-# Goals of the Course
+Welcome to the Diligence Media/Gaming community "Intro to Git" learning repo! This short course will give you a quick intro to Git.
 
-1. Learn the fundamentals of object oriented programming through [Ruby](https://www.ruby-lang.org/en/).
-2. Develop a basic understanding of Git in conjunction with Github
-3. The basics of HTML and CSS
-4. Javascript basics and how to do cool stuff for users to interact with
-5. Just enough to be dangerous (just kidding, safe!) with Terminal on your operating system
-6. Some programming challenges
-7. Put everything together and build some basic web apps through frameworks like [Ruby on Rails](https://rubyonrails.org/)
+## Coursework
 
-# The Course
-1. [Week 1](https://github.com/ZASMan/diligent_coders/blob/master/assignments/week_1.md)
-2. [Weeks 2-5](https://github.com/ZASMan/diligent_coders/blob/master/assignments/week_2_through_5.md)
+*What is Git?* - The first part of this course is simple. We won't need to know every single last detail about Git, but we'll want a brief understanding of what it is to get started. First, watch this brief [2 Minute Video](https://www.youtube.com/watch?v=2ReR1YJrNOM) explaining what Git is.
 
-# FAQ
+## Homework
+
+1) *Make a Github Account* - Go to [Github](https://www.github.com) and make an account. Github will be the place where we will save all of our code and serve as a public record of our learning. After you've created an account, post your username in the #learn_programming channel on Discord.
+
+2) *Install Git on Your Machine* - After that, install Git itself. Click [this link](https://github.com/git-guides/install-git) for the official instructions for installing Github. be sure to follow the instructions for your machine. Ping the [Discord channel](https://discord.gg/rRGukhvEYE) if you have any issues.
+
+3) *Install Code Editor* - After that, install a code editor app. Some good ones are [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/), [VS Code](https://code.visualstudio.com/) but its up to you.
+
+5) *What's next?* - Congratulations, after youve've got Git setup, you're one step forward in your coding journey and you'll be able to more effectively collaborate with one another and save our work.
+
+## Further Reading
+
+[Getting Started - What is Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+
+## Contributing
+Diligent Coders welcomes contributions! Fork the repo and open a pull request.
+
+## Contact
+Diligence Media is a group of friends with a background in gaming, music production and performance, graphic design, and general multimedia. Please join us on [our Discord Channel](https://discord.gg/rRGukhvEYE) for direct communication regarding this course.
+
+## FAQ
 1. _Who teaches this course?_ <br>
 Diligence programming mentors! At the moment, that'll primarily be [ZASman](https://github.com/ZASMan) with some assistance from Diligence team members with programming experience. We're basically just a group of friends trying to have fun and help each other learn some new skills.<br>
 
