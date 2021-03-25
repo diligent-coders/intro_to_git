@@ -13,13 +13,17 @@ Welcome to the Diligence Media/Gaming community code learning repo! Diligence Me
 
 # FAQ
 1. _Who teaches this course?_ <br>
-Diligence programming mentors! At the moment, that'll primarily be [Zane](https://github.com/ZASMan) with some assistance from Diligence team members with programming experience. We're basically just a group of friends trying to have fun and help each other learn some new skills.<br>
+Diligence programming mentors! At the moment, that'll primarily be [ZASman](https://github.com/ZASMan) with some assistance from Diligence team members with programming experience. We're basically just a group of friends trying to have fun and help each other learn some new skills.<br>
 
 2. _I have a learning disability, how can I succeed in this course?_<br>
 Course mentors aren't trained educators but will collaborate with one another and try to help you to the best of their ability.<br>
 
-3. _I'm not a great classroom learner, how do I know I'll be able to handle this course?_<br>
+3. _I feel like a failure with technical things and I've had some bad experiences in the past, is this right for me?_
+Arnold Schwarzanagger once said, _"Don't be afraid to fail. ... You can't always win, but don't be afraid of making decisions."_ You made the decision to come here to try and learn, so why not just give it a chance? The best thing that could happen is that this sets you on a path to learning programming and a new job.
+
+4. _I'm not a great classroom learner, how do I know I'll be able to handle this course?_<br>
 While we'll meet and correspond and regularly as you can, the beauty of an open source and online course like this is that you can follow along and submit assignments at your own pace, and the course mentors will get back to you.
 
-
-Ready for the first lesson? Check it out [here](https://github.com/ZASMan/diligent_coders/blob/master/assignments/week_1.md).
+# The Course
+[Week 1](https://github.com/ZASMan/diligent_coders/blob/master/assignments/week_1.md)
+[Weeks 2-5](https://github.com/ZASMan/diligent_coders/blob/master/assignments/week_2_through_5.md)
