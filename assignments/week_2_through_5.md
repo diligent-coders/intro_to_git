@@ -27,14 +27,16 @@ It might take a while before you can do this assignment, so take your time. Ther
 
 So, the end result might look something like this:
 
+```
 # Remember, the video_game_console_list parameter will be an array of strings
-`
+
 def is_nintendo_system(video_game_console_list)
   nintendo_home_consoles = ['NES', 'SNES', 'N64', 'Gamecube', 'Wii', 'Wii U', 'Switch']
   # if video_game_console_list contains any Nintendo consoles, return true
   # Otherwise, it will return false
 
 end
-`
+```
+
 You could also refactor this into a [boolean method](https://medium.com/@sologoubalex/boolean-methods-in-ruby-94a2e907e5ea) to make your code even more DRY. You could also DRY your code up and use an implicit [falsey](https://learn.co/lessons/truthiness-in-ruby-readme) return signature if your method doesn't evaluate to `true`.
 DRY is an acronym for "Do Not Repeat Yourself", you can learn more about that acronym [here](https://stackoverflow.com/questions/12368436/what-is-mean-by-this-code-is-dry-in-ror3#:~:text=order%20by-,3,keys%20getting%20worn%20out!)
