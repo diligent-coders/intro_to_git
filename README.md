@@ -27,3 +27,6 @@ Arnold Schwarzanagger once said, _"Don't be afraid to fail. ... You can't always
 
 4. _I'm not a great classroom learner, how do I know I'll be able to handle this course?_<br>
 While we'll meet and correspond and regularly as you can, the beauty of an open source and online course like this is that you can follow along and submit assignments at your own pace, and the course mentors will get back to you.
+
+5. _Where can I get some help with this?_ <br>
+Come say hello at [our Discord Channel](https://discord.gg/rRGukhvEYE)
