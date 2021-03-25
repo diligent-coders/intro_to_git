@@ -1,7 +1,7 @@
 # Week 2
 So first off, I'd like to congratulate everyone for beginning this journey to learning programming.
 I began this journey myself in April 2015, and I'll try and apply the best practices I've picked up over the years in teaching you all.
-I'm primarily a [https://www.ruby-lang.org/en/documentation/installation/](Ruby) developer, so we'll use that as the base for exploring the basic concepts of programming.
+I'm primarily a [Ruby](https://www.ruby-lang.org/en/documentation/installation/) developer, so we'll use that as the base for exploring the basic concepts of programming.
 I'll try to design this course in way where you can jump in and out whenever you want and you'll have different things to do.
 We will take our *time* to do this and there will be *little to no pressure*.
 Everyone has different responsibilities and lives and capacity of what they can handle, and this can be seem daunting at first, but you'll get there! Trust me, I had zero technical or programming knowledge before 2015.
