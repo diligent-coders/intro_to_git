@@ -11,6 +11,10 @@ Welcome to the Diligence Media/Gaming community code learning repo! Diligence Me
 6. Some programming challenges
 7. Put everything together and build some basic web apps through frameworks like [Ruby on Rails](https://rubyonrails.org/)
 
+# The Course
+1. [Week 1](https://github.com/ZASMan/diligent_coders/blob/master/assignments/week_1.md)
+2. [Weeks 2-5](https://github.com/ZASMan/diligent_coders/blob/master/assignments/week_2_through_5.md)
+
 # FAQ
 1. _Who teaches this course?_ <br>
 Diligence programming mentors! At the moment, that'll primarily be [ZASman](https://github.com/ZASMan) with some assistance from Diligence team members with programming experience. We're basically just a group of friends trying to have fun and help each other learn some new skills.<br>
@@ -23,7 +27,3 @@ Arnold Schwarzanagger once said, _"Don't be afraid to fail. ... You can't always
 
 4. _I'm not a great classroom learner, how do I know I'll be able to handle this course?_<br>
 While we'll meet and correspond and regularly as you can, the beauty of an open source and online course like this is that you can follow along and submit assignments at your own pace, and the course mentors will get back to you.
-
-# The Course
-[Week 1](https://github.com/ZASMan/diligent_coders/blob/master/assignments/week_1.md)
-[Weeks 2-5](https://github.com/ZASMan/diligent_coders/blob/master/assignments/week_2_through_5.md)
