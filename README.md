@@ -1,8 +1,8 @@
-# Intro to Git
+# Intro to Git Course
 
 Welcome to the Diligence Media/Gaming community "Intro to Git" learning repo! This short course will give you a quick intro to Git.
 
-## Course work
+## Lesson
 
 *What is Git?* - The first part of this course is simple. We won't need to know every single last detail about Git, but we'll want a brief understanding of what it is to get started. First, all you'll have to do is [2 Minute Video](https://www.youtube.com/watch?v=2ReR1YJrNOM) explaining briefly Git is.
 
