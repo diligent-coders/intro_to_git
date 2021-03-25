@@ -2,9 +2,9 @@
 
 Welcome to the Diligence Media/Gaming community "Intro to Git" learning repo! This short course will give you a quick intro to Git.
 
-## Coursework
+## Course work
 
-*What is Git?* - The first part of this course is simple. We won't need to know every single last detail about Git, but we'll want a brief understanding of what it is to get started. First, watch this brief [2 Minute Video](https://www.youtube.com/watch?v=2ReR1YJrNOM) explaining what Git is.
+*What is Git?* - The first part of this course is simple. We won't need to know every single last detail about Git, but we'll want a brief understanding of what it is to get started. First, all you'll have to do is [2 Minute Video](https://www.youtube.com/watch?v=2ReR1YJrNOM) explaining briefly Git is.
 
 ## Homework
 
@@ -27,6 +27,7 @@ Diligent Coders welcomes contributions! Fork the repo and open a pull request.
 Diligence Media is a group of friends with a background in gaming, music production and performance, graphic design, and general multimedia. Please join us on [our Discord Channel](https://discord.gg/rRGukhvEYE) for direct communication regarding this course.
 
 ## FAQ
+<sub><sup>
 1. _Who teaches this course?_ <br>
 Diligence programming mentors! At the moment, that'll primarily be [ZASman](https://github.com/ZASMan) with some assistance from Diligence team members with programming experience. We're basically just a group of friends trying to have fun and help each other learn some new skills.<br>
 
@@ -41,3 +42,4 @@ While we'll meet and correspond and regularly as you can, the beauty of an open 
 
 5. _Where can I get some help with this?_ <br>
 Come say hello at [our Discord Channel](https://discord.gg/rRGukhvEYE)
+</sub></sup>
