@@ -9,18 +9,18 @@ Everyone has different responsibilities and lives and capacity of what they can 
 # First Assignment (Multi Week Project) - Learn the Basics of Ruby
 
 # How do I learn?
-I started learning Ruby with Code Academy (which has a free and paid tier)- so we'll use their [https://www.codecademy.com/learn/learn-ruby](beginner's Ruby course).
+I started learning Ruby with Code Academy (which has a free and paid tier)- so we'll use their [beginner's Ruby course](https://www.codecademy.com/learn/learn-ruby).
 Go ahead and use your Github account for authentication if you'd like, since you already made that!
 The great thing about using Code Academy is that it is browser based and saves your progress, its easy to jump on and off and you won't need install anything further.
 You'll learn the fundamentals of programming, and every single thing you learn in it will be applicable to the "projects" and "challenges".
 
 # Assignment to submit
 Once you've learned enough from the Code Academy course, I'd like you to submit pull request containing a `.rb` file (don't worry if you don't know what this is yet)
-in the `submissions` directory (this might not exist yet by the time you see this message, check out [https://github.com/ZASMan/diligent_coders/issues/2](this Github issue) I made about it) containing solutions to the following questions.
+in the `submissions` directory (this might not exist yet by the time you see this message, check out [this Github issue](https://github.com/ZASMan/diligent_coders/issues/2) I made about it) containing solutions to the following questions.
 It might take a while before you can do this assignment, so take your time. There's no rush!
 
 1) You'll have to install Ruby locally. The official [Ruby website](https://www.ruby-lang.org/en/documentation/installation/) should have detailed instructions for your operating systems.
-2) Create an [https://ruby-doc.org/core-2.7.0/Array.html](array) of [https://ruby-doc.org/core-3.0.0/String.html](strings) with each string value being equal to a video game console that you like. Call the variable, `favorite_video_game_systems`.
+2) Create an [array](https://ruby-doc.org/core-2.7.0/Array.html) of [strings](https://ruby-doc.org/core-3.0.0/String.html) with each string value being equal to a video game console that you like. Call the variable, `favorite_video_game_systems`.
 3) Search through the array documentation (linked in step one) for a way to check if a value is present in an array. Take note of that.
 4) Now, I want you to create a [method](https://www.tutorialspoint.com/ruby/ruby_methods.htm) that will return `true` if any of your favorite video game systems are a home based Nintendo system. Here's an array of those values:
 `nintendo_home_consoles = ['NES', 'SNES', 'N64', 'Gamecube', 'Wii', 'Wii U', 'Switch']`
