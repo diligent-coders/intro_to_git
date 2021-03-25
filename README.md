@@ -13,9 +13,9 @@ Welcome to the Diligence Media/Gaming community code learning repo! Diligence Me
 
 # FAQ
 1. _Who teaches this course?_ <br>
-Diligence programming mentors! At the moment, that'll primarily be [Zane](https://github.com/ZASMan) with some assistance from Diligence team members with programming experience.<br>
+Diligence programming mentors! At the moment, that'll primarily be [Zane](https://github.com/ZASMan) with some assistance from Diligence team members with programming experience. We're basically just a group of friends trying to have fun and help each other learn some new skills.<br>
 
-2._I have a learning disability, how can I succeed in this course?_<br>
+2. _I have a learning disability, how can I succeed in this course?_<br>
 Course mentors aren't trained educators but will collaborate with one another and try to help you to the best of their ability.<br>
 
 3. _I'm not a great classroom learner, how do I know I'll be able to handle this course?_<br>
